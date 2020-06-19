@@ -11281,7 +11281,7 @@ require("./app4.css");
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
 var $circle = (0, _jquery.default)("#app4 .circle");
-$circle.on('click', function () {
+$circle.hover(function () {
   $circle.toggleClass('active');
 });
 },{"jquery":"juYr","./app4.css":"AQoi"}],"epB2":[function(require,module,exports) {
@@ -11299,4 +11299,4 @@ require("./app3.js");
 
 require("./app4.js");
 },{"./reset.css":"AQoi","./global.css":"AQoi","./app1.js":"US5u","./app2.js":"vZ5o","./app3.js":"y8lT","./app4.js":"eWpN"}]},{},["epB2"], null)
-//# sourceMappingURL=https://lb66.github.io/MVC-1/dist/main.af1e6e1b.js.map
+//# sourceMappingURL=main.1d3bbfc5.js.map

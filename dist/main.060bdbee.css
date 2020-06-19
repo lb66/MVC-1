@@ -71,8 +71,9 @@ body > .page > section{
   border-radius: 50%;
   border: 1px solid red;
 }
+
 #app4 .circle.active{
   animation: change 1s infinite alternate linear;
 }
 
-/*# sourceMappingURL=https://lb66.github.io/MVC-1/dist/main.208a9ad1.css.map */
+/*# sourceMappingURL=main.060bdbee.css.map */
